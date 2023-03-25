@@ -1,0 +1,152 @@
+[
+  {
+    "name": "atomiks",
+    "username": null,
+    "repoName": null,
+    "description": "Tooltip, popover, dropdown, and menu library"
+  },
+  {
+    "name": "Simon Lydell",
+    "username": "lydell",
+    "repoName": "lydell",
+    "description": "Easy autofixable import sorting."
+  },
+  {
+    "name": "Zeno Rocha",
+    "username": "zenorocha",
+    "repoName": "zenorocha",
+    "description": "✂️ Modern copy to clipboard. No Flash. Just 3kb gzipped 📋"
+  },
+  {
+    "name": "Adhiraj Singh",
+    "username": "adiwajshing",
+    "repoName": "adiwajshing",
+    "description": "Lightweight full-featured WhatsApp Web + Multi-Device API"
+  },
+  {
+    "name": "Rob Garrison",
+    "username": "Mottie",
+    "repoName": "Mottie",
+    "description": "Userscripts to add functionality to GitHub"
+  },
+  {
+    "name": "Benjamin E. Coe",
+    "username": "bcoe",
+    "repoName": "bcoe",
+    "description": "output coverage reports using Node.js' built in coverage"
+  },
+  {
+    "name": "Ben Firshman",
+    "username": "bfirsh",
+    "repoName": "bfirsh",
+    "description": "A JavaScript NES emulator."
+  },
+  {
+    "name": "Nelson",
+    "username": "nelsonic",
+    "repoName": "nelsonic",
+    "description": "🕷 🕸 crawl GitHub web pages for insights we can't GET from the API ... 💡"
+  },
+  {
+    "name": "Zeke Sikelianos",
+    "username": "zeke",
+    "repoName": "zeke",
+    "description": "This is the open-source repo for docs.github.com."
+  },
+  {
+    "name": "Rod Vagg",
+    "username": "rvagg",
+    "repoName": "rvagg",
+    "description": "Node.js web handler / middleware for processing GitHub Webhooks"
+  },
+  {
+    "name": "Steven Lambert",
+    "username": "straker",
+    "repoName": "straker",
+    "description": "Proposal to improve the DOM creation API so developers have a cleaner, simpler, and secure interface to DOM creation and manipulation."
+  },
+  {
+    "name": "leejimqiu",
+    "username": "LeeJim",
+    "repoName": "LeeJim",
+    "description": "程序员做菜指南 for Miniprogram，将程序员精神贯彻到底"
+  },
+  {
+    "name": "Kent C. Dodds",
+    "username": "kentcdodds",
+    "repoName": "kentcdodds",
+    "description": "Material for my React Fundamentals Workshop"
+  },
+  {
+    "name": "Olivier Tassinari",
+    "username": "oliviertassinari",
+    "repoName": "oliviertassinari",
+    "description": "A React component for swipeable views. ❄️"
+  },
+  {
+    "name": "Moaaz Sidat",
+    "username": "moaazsidat",
+    "repoName": "moaazsidat",
+    "description": "A QR code scanner component for React Native."
+  },
+  {
+    "name": "Asif Saif Uddin",
+    "username": "auvipy",
+    "repoName": "auvipy",
+    "description": "Under heavy development now: Real time Celery monitoring with ASGI 3.0+ django 3.2"
+  },
+  {
+    "name": "Simon L.",
+    "username": "szaimen",
+    "repoName": "szaimen",
+    "description": "Nextcloud-NAS-Guide - Instructions how to set up a home server"
+  },
+  {
+    "name": "Domenic Denicola",
+    "username": "domenic",
+    "repoName": "domenic",
+    "description": "The ES6 promises spec, as per September 2013 TC39 meeting"
+  },
+  {
+    "name": "Ika",
+    "username": "ikatyang",
+    "repoName": "ikatyang",
+    "description": "A markdown version emoji cheat sheet"
+  },
+  {
+    "name": "Rich Harris",
+    "username": "Rich-Harris",
+    "repoName": "Rich-Harris",
+    "description": "Straightforward project scaffolding"
+  },
+  {
+    "name": "Robin Berjon",
+    "username": "darobin",
+    "repoName": "darobin",
+    "description": "Simple command to backup a Notion workspace"
+  },
+  {
+    "name": "Diego Muracciole",
+    "username": "diegomura",
+    "repoName": "diegomura",
+    "description": "📄 Create PDF files using React"
+  },
+  {
+    "name": "Tim Paine",
+    "username": "timkpaine",
+    "repoName": "timkpaine",
+    "description": "View html as an embedded iframe in JupyterLab"
+  },
+  {
+    "name": "Brian Holt",
+    "username": "btholt",
+    "repoName": "btholt",
+    "description": "The Complete Intro to React, as taught by Brian Holt on Frontend Masters"
+  },
+  {
+    "name": "Jan Lehnardt",
+    "username": "janl",
+    "repoName": "janl",
+    "description": "Minimal templating with {{mustaches}} in JavaScript"
+  }
+]
